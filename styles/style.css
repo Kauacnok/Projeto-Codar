@@ -98,8 +98,8 @@ main > section.flex-container {
 }
 
 main > section.flex-container > article.img-video-call {
-    width: 225px;
-    height: 200px;
+    width: 240px;
+    height: 205px;
     background-image: url(../assets/video_call.png);
     background-size: cover;
     order: -1;
