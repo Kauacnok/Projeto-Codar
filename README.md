@@ -4,7 +4,7 @@
 
 <a href="https://github.com/Lorenalgm/codar" target="_blank">Criadora do Desafio</a>
 
-a ideia do desafio era recriar esse layout de forma mas semelhante possível e responsiva
+a ideia do desafio era recriar esse layout de forma mais semelhante possível e responsiva
 
 ![Mobile](https://camo.githubusercontent.com/51756dcd32797b937d7ee44762881a5cb17881b5f8439fcc24d2eb1871127ead/68747470733a2f2f692e6962622e636f2f32674239486b632f636f6461722d6d6f62696c652e706e67)
 
