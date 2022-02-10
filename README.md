@@ -1,6 +1,6 @@
 # Layout de site criado com a ideia de uma empresa que cria sites
 
-## Desafio criado por Lorena
+## Desafio criado por Lorena Montes
 
 <a href="https://github.com/Lorenalgm/codar" target="_blank">Criadora do Desafio</a>
 
